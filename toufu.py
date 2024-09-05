@@ -46,7 +46,7 @@ a = 0
 # インデントについて理解しよう
 #a = 30000
 #for i in range(10):
-#    print(i)
+#    print(100)
 #print(a)
 
 
